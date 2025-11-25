@@ -55,14 +55,13 @@ O projeto está organizado em duas questões principais:
 
 ## 📊 Visualizações Chave
 
-![Gráfico Turnover Mensal](img/img1.PNG)
-![Gráfico Tenure](img/img2.PNG)
-![Gráfico Saída Momento Crítico](img/img3.PNG)
-
 O notebook gera gráficos detalhados sobre:
 1.  Evolução temporal do Turnover (Faixa Preta vs. Normais).
+![Gráfico Turnover Mensal](img/img1.PNG)
 2.  Análise de Safra (Volume de saídas por tempo de casa).
+![Gráfico Tenure](img/img2.PNG)
 3.  Ranking de motivos de desligamento.
+![Gráfico Saída Momento Crítico](img/img3.PNG)
 
 ---
 
