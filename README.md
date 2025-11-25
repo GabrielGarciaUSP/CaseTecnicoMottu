@@ -47,7 +47,7 @@ O projeto está organizado em duas questões principais:
     ```bash
     pip install pandas matplotlib openpyxl
     ```
-3.  Abra o arquivo `analise_turnover.ipynb` no Jupyter Notebook ou VS Code.
+3.  Abra o arquivo `Questão_1_Case_Mottu.ipynb` no Jupyter Notebook ou VS Code.
 
 > **Nota de Compliance:** O arquivo original de dados (`.xlsx`) **não** foi incluído neste repositório para preservar a confidencialidade das informações da empresa. O código serve como demonstração da lógica e estruturação analítica aplicada.
 
